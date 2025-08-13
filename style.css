@@ -375,9 +375,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -816,9 +813,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -1257,9 +1251,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -1699,9 +1690,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -2141,9 +2129,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -2582,9 +2567,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -3023,9 +3005,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
@@ -3464,9 +3443,6 @@ main {
     align-items: center;
     width: 100%;
     height: 70px;
-    position: fixed;
-    background-color: hsl(0, 0%, 100%);
-    z-index: 1000;
   }
 
   .nav__links {
